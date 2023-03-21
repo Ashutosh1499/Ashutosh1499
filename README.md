@@ -12,7 +12,6 @@
 <p align="center">
   <img align="left" src="./ss1.png" />
   <img align="right" src="./ss2.png" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh1499&show_icons=true&locale=en&layout=compact" alt="ashutosh1499" />
+  <hr/>
 </p>
-<hr>
-<p align="left">&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh1499&show_icons=true&locale=en&layout=compact" alt="ashutosh1499" /></p>
