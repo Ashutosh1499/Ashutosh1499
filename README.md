@@ -10,8 +10,11 @@
 <h2 align="center">My Skill Sets:</h2>
 <hr>
 <p align="center">
-  <img align="left" src="./ss1.png" />
-  <img align="right" src="./ss2.png" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh1499&show_icons=true&locale=en&layout=compact" alt="ashutosh1499" />
-  <hr/>
+  <img align="left" src="./set_1.png" width="200"/>
+  <img align="center" src="./set_3.png" width="200"/>
+  <img align="right" src="./set_2.png" width="200"/>
+</p>
+<hr>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh1499&show_icons=true&locale=en&layout=compact" alt="ashutosh1499" />
 </p>
