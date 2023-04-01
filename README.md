@@ -12,7 +12,7 @@
 <p align="center">
   <img align="left" src="./set_1.png" width="200"/>
   <img align="center" src="./set_3.png" width="200"/>
-  <img align="right" src="./set_2.png" width="200"/>
+  <img align="right" src="./set2.png" width="200"/>
 </p>
 <hr>
 <p align="center">
